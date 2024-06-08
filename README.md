@@ -17,17 +17,6 @@ This repository contains the code and data for a project focused on detecting ph
 - `models/`: Trained models and scripts for model deployment.
 - `README.md`: Project overview and instructions.
 
-## Visualizations
-
-### Common Words in Phishing URLs
-![Phishing URL Word Cloud](visualizations/phishing_word_cloud.png)
-
-### Common Words in Legitimate URLs
-![Legitimate URL Word Cloud](visualizations/legitimate_word_cloud.png)
-
-### Distribution of Special Characters
-![Special Characters Distribution](visualizations/special_characters_distribution.png)
-
 ## Getting Started
 
 ### Prerequisites
