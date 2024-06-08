@@ -41,7 +41,7 @@ This repository contains the code and data for a project focused on detecting ph
 ### Usage
 
 1. Explore the data and features using the Jupyter notebooks in the `notebooks/` directory.
-2. Run the scripts in the `src/` directory to preprocess data, train models, and evaluate performance.
+2. Run the scripts in the `notebooks/` directory to preprocess data, train models, and evaluate performance.
 ## Contributing
 
 Contributions are welcome! Please open an issue or submit a pull request for any improvements or bug fixes.
